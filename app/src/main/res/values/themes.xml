@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.BMICalculator" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/primary</item>
+    </style>
+</resources>

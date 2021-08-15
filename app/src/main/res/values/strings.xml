@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="calculate">Calculate!</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="age">Age</string>
+    <string name="weight">Weight</string>
+    <string name="cm">cm</string>
+    <string name="height">Height</string>
+    <string name="header">BMI Calculator \n by \n Anılcan İpsalalı</string>
+    <string name="gender">Gender</string>
+    <string name="recalculate">Recalculate!</string>
+    <string name="bmi_category">BMI Category</string>
+    <string name="bmi_result">55</string>
+    <string name="thinness">Thinness. In case of encountering this value, which indicates that the person\'s weight is insufficient compared to their height, it is recommended that the person gain weight in a healthy way in the presence of a dietitian.</string>
+    <string name="normal">Normal. This range of values ​​indicates that the person is at the ideal weight. It is recommended that people with this value continue to eat a regular, balanced and healthy diet.</string>
+    <string name="overweight">Overweight. In this value range, which shows that the person is overweight compared to his height, it is recommended that the person lose their excess weight with a suitable diet</string>
+    <string name="fat">Fat. In the range of values ​​evaluated in the first degree obese category, it is understood that the weight of the person is at a level that may pose a risk in terms of health. It is recommended that these people lose weight with the help of a dietitian.</string>
+    <string name="fat2">Fat. People with these values, defined as second degree obese, have an increased risk of cardiovascular diseases. It is recommended that the person consult a dietitian to lose weight.</string>
+    <string name="fat3">Obese. These people who are in the third degree obese category have a very high risk of developing the disease. It is recommended to lose weight under the guidance of a physician and dietitian.</string>>
+</resources>
